@@ -1,0 +1,9 @@
+Foi dado continuação ao curso de Java + Spring Boot na plataforma Alura.
+O módulo Spring Boot 3: aplique boas práticas e proteja uma API Rest foi concluido.
+E nele tem as seguintes materias:
+Padronize os retornos dos controllers da API.
+Utilize os códigos HTTP corretamente.
+Adicione o módulo Spring Security no projeto.
+Implemente um mecanismo de autenticação na API.
+Realize o controle de acesso na API.
+Utilize Json Web Token para controlar o acesso na API.
